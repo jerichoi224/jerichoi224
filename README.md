@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Daniel Choi - @jerichoi224
+👋 Hi, I'm Daniel
 <!--
 **jerichoi224/jerichoi224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
