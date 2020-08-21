@@ -6,7 +6,7 @@
 - Back-End: Ruby on Rails, AWS(S3, Athena, etc)
 - Software Development: Java, Python, C++, ROS
 - Machine Learning: TensorFlow, Pytorch
-- Mobile Development: Android (Java)
+- Mobile Development: Android (Java), Flutter
 
 ---
 
