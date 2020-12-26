@@ -1,5 +1,5 @@
 ## Daniel Choi - @jerichoi224
-👋 Hi, I'm Daniel, a developer and photographer. I'm currently studying in 🎓 University of Virginia 🏫, pursuing a Masters Degree in Computer Science👨‍💻. I have interest in Deep learning and 🖥 Front end Development, but also like to study 👾 Game Development. You can check out some games from my [personal website](http://daniel-choi.com)
+👋 Hi, I'm Daniel, a developer and photographer. I've graduated 🎓 from the University of Virginia with a Masters Degree in Computer Science👨‍💻. I have interest in Deep learning and 🖥 Front end Development, but also like to study 👾 Game Development. You can check out some games from my [personal website](http://daniel-choi.com)
 
 ## ⚒ Skillset 
 - Front-End: HTML/CSS, Javascript, Angular
