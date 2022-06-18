@@ -1,7 +1,7 @@
 ## Daniel Choi - @jerichoi224
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerichoi224&count_bg=%234792E6&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
   
-👋 Hi, I'm Daniel, a developer and photographer. I've graduated 🎓 from the University of Virginia with a Masters Degree in Computer Science👨‍💻. I have interest in Deep learning, but also like to study 👾 Game Development and 📱 Mobile App Development as well. You can check out some games from my [personal website](http://daniel-choi.com). Right now I'm working as a software developer doing Windows Programming.
+👋 Hi, I'm Daniel, a developer and photographer. I've graduated 🎓 from the University of Virginia with a Masters Degree in Computer Science👨‍💻. I have interest in Deep learning, Game Development 👾 and Mobile App Development 📱 as well. Recently, I've been working on projects using Flutter alot. You can check out some games from my [personal website](http://daniel-choi.com). Right now I'm working as a software developer doing Windows Programming.
 
 ## ⚒ Skillset 
 Tech that I was comfortable with at least once.
