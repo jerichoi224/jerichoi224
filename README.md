@@ -1,17 +1,19 @@
 ## Daniel Choi - @jerichoi224
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerichoi224&count_bg=%234792E6&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
   
-👋 Hi, I'm Daniel, a developer and photographer. I've graduated 🎓 from the University of Virginia with a Masters Degree in Computer Science👨‍💻. I have interest in Deep learning, Game Development 👾 and Mobile App Development 📱 as well. Recently, I've been working on projects using Flutter alot. You can check out some games from my [personal website](http://daniel-choi.com). Currently, I'm working as a software developer, developing web apps using react, fastify and electron.
+👋 Hi, I'm Daniel, a developer. I've graduated 🎓 from the University of Virginia with a Masters Degree in Computer Science👨‍💻. I have interest in Mobile Development and Web Development. I'm also interested in topics such as Deep learning and Game Development 👾. Recently, I've been working on projects using Flutter alot. You can check out some projects from my [personal website](http://daniel-choi.com). 
+
+Currently, I'm working as a software developer, developing web apps using react and vtk.js.
 
 ## ⚒ Skillset 
 Tech that I was comfortable with at least once.
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02459B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <br>  
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
